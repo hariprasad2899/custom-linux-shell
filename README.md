@@ -55,7 +55,7 @@ This project implements a custom Linux shell that mimics the behavior of standar
 ## 📁 Project Structure
 
 ```
-OSD Project 2/
+Custom Linux Shell/
 ├── code shell.txt                    # Main shell implementation (C source code)
 ├── output attachments/               # Screenshots of shell in action
 │   ├── Screenshot (26).png
