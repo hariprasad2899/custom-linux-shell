@@ -64,7 +64,7 @@ Custom Linux Shell/
 │   ├── Screenshot (29).png
 │   ├── Screenshot (30).png
 │   └── Screenshot (32).png
-└── README.md                         # This file
+README.md                         # This file
 ```
 
 ## 🔧 Requirements
@@ -368,9 +368,7 @@ This project is intended for educational purposes.
 - Unix/Linux shell documentation
 - Operating Systems course materials
 
----
-
-**Project**: OSD Project 2  
+--- 
 **Subject**: Operating System Design  
 **Focus**: Custom Linux Shell Implementation with Process Management and IPC
 
