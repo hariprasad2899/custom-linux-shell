@@ -1,4 +1,4 @@
-# OSD Project 2: Custom Linux Shell Implementation
+# Custom Linux Shell Implementation
 
 A fully functional custom Linux shell implementation in C that provides an interactive command-line interface with built-in commands, piping, I/O redirection, and command history support.
 
